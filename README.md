@@ -1,5 +1,5 @@
 
-# Simple Network Application
+# Simple Network Application - P2P File Sharing
 
 ## Application overview
 ### Tracker
@@ -16,6 +16,7 @@ A centralized tracker keeps
 The Tracker and Peer has different GUI, each GUI has many buttons. 
 
 If user wants to do a task, fill in the corresponding information entry (if needed) and then press a button.
+
 ### Tracker 
 - **help**: List the buttons of Tracker 
 - **list**: List all peer with files
