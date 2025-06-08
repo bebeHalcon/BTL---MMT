@@ -3,8 +3,7 @@
 
 ## Application overview
 ### Tracker
-A centralized tracker keeps
-- track of which peers are connected and storing what files
+A centralized tracker keeps track of which peers are connected and storing what files.
 
 ### Peer
 - Through tracker protocol, a peer informs the tracker as to what files and their encoded data are contained in its local repository.
